@@ -1,0 +1,10 @@
+[package]
+name = "openroc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.37.0"
+openroc-core = { version = "0.1.0", path = "../openroc-core" }
+png = "0.18"
+rfd = "0.18.0"

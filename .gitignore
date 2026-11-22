@@ -1,0 +1,6 @@
+target/
+.DS_Store
+backup/
+
+# Original ROCCAT software, reference only, must not be redistributed
+og/
